@@ -8,10 +8,10 @@ Esse nõa é meu primeiro repositório, se quiser pode dar uma olhada nas outras
 
 
 #### As etapas do bootcamp são:
-- ✅: Boas-vindas ao Bootcamp GFT Start #4 Java
-- ✅: Lógica de Programação Essencial
-- ✅: Aprenda o que são Estruturas de Dados e Algoritmos
-- ✅: Introdução ao Git e ao Github
+- ✅: Boas-vindas ao Bootcamp GFT Start #4 Java [[1](./certificados/01-86765F16.pdf)]
+- ✅: Lógica de Programação Essencial [[2](./certificados/02-37DBA2F6.pdf)]
+- ✅: Aprenda o que são Estruturas de Dados e Algoritmos [[3](certificados/03-88AC6E3B.pdf)]
+- ✅: Introdução ao Git e ao Github [[4](./certificados/04-5001A304.pdf)]
 - ⏳: Criando seu Primeiro Repositório no Github para comaprtilhar se progresso
 - ⏳: Introdução ao Ecossistema e Documentação Java
 - ⏳: Dominando IDEs Java
