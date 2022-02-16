@@ -1,6 +1,6 @@
 # Bootcamp: GFT Start #4 Java
 
-Olá, tudo bem!? Meu nome é ___Brenno Machado___ e criei esse repo para acompanhar o[ bootcamp GFT Start #4 Java](https://web.dio.me/track/gft-start-4-java) oferecido em parceria com a GFT e a Digital Innovation One (DIO).
+Olá, tudo bem!? Meu nome é [__Brenno Machado__](https://github.com/brennomachado) e criei esse repo para acompanhar o[ bootcamp GFT Start #4 Java](https://web.dio.me/track/gft-start-4-java) oferecido em parceria com a GFT e a Digital Innovation One (DIO).
 Esse nõa é meu primeiro repositório, se quiser pode dar uma olhada nas outras coisas que venho estudando e trabalhando:
 - Meu [perfil do GitHub](https://github.com/brennomachado)
 - [Repositório do curso de Tech Degree](https://github.com/brennomachado/DigitalHouse) onde guardo meus estudos com a Digital House
