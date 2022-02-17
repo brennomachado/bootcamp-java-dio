@@ -13,7 +13,7 @@ Esse nõa é meu primeiro repositório, se quiser pode dar uma olhada nas outras
 - ✅: Aprenda o que são Estruturas de Dados e Algoritmos [[3](certificados/03-88AC6E3B.pdf)]
 - ✅: Introdução ao Git e ao Github [[4](./certificados/04-5001A304.pdf)]
 - ✅: Criando seu Primeiro Repositório no Github para comaprtilhar se progresso [[5](./certificados/05-BDA35ED7.pdf)]
-- ⏳: Introdução ao Ecossistema e Documentação Java
+- ✅: Introdução ao Ecossistema e Documentação Java [[6](./certificados/06-51D725AC.pdf)]
 - ⏳: Dominando IDEs Java
 - ⏳: Variáveis, Tipos de Dados e Operadores Matemáticos em Java
 - ⏳: Entendendo Métodos Java
