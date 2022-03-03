@@ -14,8 +14,8 @@ Esse nõa é meu primeiro repositório, se quiser pode dar uma olhada nas outras
 - ✅: Introdução ao Git e ao Github [[4](./certificados/04-5001A304.pdf)]
 - ✅: Criando seu Primeiro Repositório no Github para comaprtilhar se progresso [[5](./certificados/05-BDA35ED7.pdf)]
 - ✅: Introdução ao Ecossistema e Documentação Java [[6](./certificados/06-51D725AC.pdf)]
-- ⏳: Dominando IDEs Java
-- ⏳: Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+- ✅: Dominando IDEs Java [[7](./certificados/07-F5EAE9FA.pdf)]
+- ✅: Variáveis, Tipos de Dados e Operadores Matemáticos em Java [[8](./certificados/08-345483D6.pdf)]
 - ⏳: Entendendo Métodos Java
 - ⏳: Lógica Condicional e Controle de Fluxo em Java
 - ⏳: Estruturas de Repetição e Arrays em Java
