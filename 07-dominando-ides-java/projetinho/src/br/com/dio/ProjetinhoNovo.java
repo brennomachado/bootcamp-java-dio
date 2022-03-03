@@ -6,7 +6,7 @@ public class ProjetinhoNovo {
 
 	public static void main(String[] args) {
 
-		Gato gato = new Gato("oi", "ola", 5);
+		Gato gato = new Gato(null, null, null);
 		Livros livros = new Livros();
 		String oi = "olá";
 		
