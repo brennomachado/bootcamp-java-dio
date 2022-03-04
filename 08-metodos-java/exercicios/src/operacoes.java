@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class operacoes {
+public class operacoes {
+    public static void main(String[] args) {
+
+
+
+    }
 }
